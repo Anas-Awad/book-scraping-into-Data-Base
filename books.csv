@@ -1,0 +1,932 @@
+book_id,book_name,book_price,book_rate,category_id
+1,"""It's Only the Himalayas""",45.17,2,1
+2,"""Full Moon over Noah's Ark: An Odyssey to Mount Ararat and Beyond""",49.43,4,1
+3,"""See America: A Celebration of Our National Parks & Treasured Sites""",48.87,3,1
+4,"""Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel""",36.94,2,1
+5,"""Under the Tuscan Sun""",37.33,3,1
+6,"""A Summer In Europe""",44.34,2,1
+7,"""The Great Railway Bazaar""",30.54,1,1
+8,"""A Year in Provence (Provence #1)""",56.88,4,1
+9,"""The Road to Little Dribbling: Adventures of an American in Britain (Notes From a Small Island #2)""",23.21,1,1
+10,"""Neither Here nor There: Travels in Europe""",38.95,3,1
+11,"""1,000 Places to See Before You Die""",26.08,5,1
+12,"""Sharp Objects""",47.82,4,2
+13,"""In a Dark, Dark Wood""",19.63,3,2
+14,"""The Past Never Ends""",56.5,4,2
+15,"""A Murder in Time""",16.64,3,2
+16,"""The Murder of Roger Ackroyd (Hercule Poirot #4)""",44.1,4,2
+18,"""That Darkness (Gardiner and Renner #1)""",13.92,3,2
+19,"""Tastes Like Fear (DI Marnie Rome #3)""",10.69,3,2
+20,"""A Time of Torment (Charlie Parker #14)""",48.35,5,2
+21,"""A Study in Scarlet (Sherlock Holmes #1)""",16.73,3,2
+22,"""Poisonous (Max Revere Novels #3)""",26.8,3,2
+23,"""Murder at the 42nd Street Library (Raymond Ambler #1)""",54.36,4,2
+24,"""Most Wanted""",35.28,3,2
+25,"""Hide Away (Eve Duncan #20)""",11.84,3,2
+26,"""Boar Island (Anna Pigeon #19)""",59.48,3,2
+27,"""The Widow""",27.26,2,2
+28,"""Playing with Fire""",13.71,3,2
+29,"""What Happened on Beale Street (Secrets of the South Mysteries #2)""",25.37,5,2
+30,"""The Bachelor Girl's Guide to Murder (Herringford and Watts Mysteries #1)""",52.3,5,2
+31,"""Delivering the Truth (Quaker Midwife Mystery #1)""",20.89,4,2
+32,"""Delivering the Truth (Quaker Midwife Mystery #1)""",24.8,4,2
+33,"""Delivering the Truth (Quaker Midwife Mystery #1)""",38.38,2,2
+34,"""Delivering the Truth (Quaker Midwife Mystery #1)""",23.05,5,2
+35,"""Delivering the Truth (Quaker Midwife Mystery #1)""",43.45,3,2
+36,"""Delivering the Truth (Quaker Midwife Mystery #1)""",19.21,3,2
+37,"""Delivering the Truth (Quaker Midwife Mystery #1)""",25.4,3,2
+38,"""Delivering the Truth (Quaker Midwife Mystery #1)""",24.72,2,2
+39,"""Delivering the Truth (Quaker Midwife Mystery #1)""",57.7,4,2
+40,"""Delivering the Truth (Quaker Midwife Mystery #1)""",12.29,3,2
+41,"""Delivering the Truth (Quaker Midwife Mystery #1)""",15.85,3,2
+42,"""Delivering the Truth (Quaker Midwife Mystery #1)""",20.3,3,2
+45,"""Forever and Forever: The Courtship of Henry Longfellow and Fanny Appleton""",29.69,3,3
+46,"""A Flight of Arrows (The Pathfinders #2)""",55.53,5,3
+47,"""The House by the Lake""",36.95,1,3
+48,"""Mrs. Houdini""",30.25,5,3
+49,"""The Marriage of Opposites""",28.08,4,3
+50,"""Glory over Everything: Beyond The Kitchen House""",45.84,3,3
+51,"""Love, Lies and Spies""",20.55,2,3
+52,"""A Paris Apartment""",39.01,4,3
+53,"""Lilac Girls""",17.28,3,3
+54,"""The Constant Princess (The Tudor Court #1)""",16.62,3,3
+55,"""The Invention of Wings""",37.34,1,3
+56,"""World Without End (The Pillars of the Earth #2)""",32.97,4,3
+57,"""The Passion of Dolssa""",28.32,5,3
+58,"""Girl With a Pearl Earring""",26.77,1,3
+59,"""Voyager (Outlander #3)""",21.07,5,3
+60,"""The Red Tent""",35.66,5,3
+62,"""The Guernsey Literary and Potato Peel Pie Society""",49.53,1,3
+63,"""Girl in the Blue Coat""",46.83,2,3
+64,"""Girl in the Blue Coat""",20.79,5,3
+65,"""Girl in the Blue Coat""",41.32,5,3
+66,"""Girl in the Blue Coat""",34.56,3,3
+67,"""Girl in the Blue Coat""",25.83,3,3
+68,"""Girl in the Blue Coat""",27.7,4,3
+69,"""Girl in the Blue Coat""",16.97,3,3
+70,"""Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)""",52.29,5,4
+71,"""Tsubasa: WoRLD CHRoNiCLE 2 (Tsubasa WoRLD CHRoNiCLE #2)""",16.28,3,4
+72,"""This One Summer""",19.49,3,4
+73,"""The Nameless City (The Nameless City #1)""",38.16,4,4
+75,"""Rat Queens, Vol. 3: Demons (Rat Queens (Collected Editions) #11-15)""",50.4,3,4
+76,"""Princess Jellyfish 2-in-1 Omnibus, Vol. 01 (Princess Jellyfish 2-in-1 Omnibus #1)""",13.61,3,4
+77,"""Pop Gun War, Volume 1: Gift""",18.97,3,4
+78,"""Patience""",10.16,3,4
+79,"""Outcast, Vol. 1: A Darkness Surrounds Him (Outcast #1)""",15.44,3,4
+80,"""orange: The Complete Collection 1 (orange: The Complete Collection #1)""",48.41,1,4
+81,"""Lumberjanes, Vol. 2: Friendship to the Max (Lumberjanes #5-8)""",46.91,2,4
+82,"""Lumberjanes, Vol. 1: Beware the Kitten Holy (Lumberjanes #1-4)""",45.61,3,4
+83,"""Lumberjanes Vol. 3: A Terrible Plan (Lumberjanes #9-12)""",19.92,3,4
+84,"""I Hate Fairyland, Vol. 1: Madly Ever After (I Hate Fairyland (Compilations) #1-5)""",29.17,2,4
+85,"""I am a Hero Omnibus Volume 1""",54.63,3,4
+86,"""Giant Days, Vol. 2 (Giant Days #5-8)""",22.11,2,4
+87,"""Danganronpa Volume 1""",51.99,4,4
+88,"""Codename Baboushka, Volume 1: The Conclave of Death""",36.72,4,4
+89,"""Camp Midnight""",17.08,3,4
+90,"""Camp Midnight""",37.92,2,4
+91,"""Camp Midnight""",33.14,1,4
+92,"""Camp Midnight""",41.62,4,4
+93,"""Camp Midnight""",36.5,2,4
+94,"""Camp Midnight""",15.38,3,4
+95,"""Camp Midnight""",37.34,4,4
+97,"""Camp Midnight""",25.38,2,4
+98,"""Camp Midnight""",11.89,3,4
+99,"""Camp Midnight""",35.43,4,4
+100,"""Camp Midnight""",47.82,3,4
+101,"""Camp Midnight""",25.48,2,4
+102,"""Camp Midnight""",38.39,2,4
+104,"""Camp Midnight""",57.62,5,4
+105,"""Camp Midnight""",32.01,2,4
+106,"""Camp Midnight""",48.8,3,4
+107,"""Camp Midnight""",10.9,3,4
+108,"""Camp Midnight""",33.95,4,4
+109,"""Camp Midnight""",14.1,3,4
+110,"""Camp Midnight""",19.57,3,4
+111,"""Camp Midnight""",20.96,4,4
+112,"""Camp Midnight""",36.39,3,4
+113,"""Camp Midnight""",16.33,3,4
+115,"""Camp Midnight""",27.88,2,4
+116,"""Camp Midnight""",50.44,4,4
+117,"""Camp Midnight""",14.41,3,4
+118,"""Camp Midnight""",55.55,5,4
+119,"""Camp Midnight""",21.57,5,4
+120,"""Camp Midnight""",43.63,3,4
+121,"""Camp Midnight""",39.13,1,4
+122,"""Camp Midnight""",31.45,3,4
+123,"""Camp Midnight""",42.72,1,4
+124,"""Camp Midnight""",45.17,2,4
+125,"""Camp Midnight""",49.31,1,4
+126,"""Camp Midnight""",38.02,2,4
+128,"""Camp Midnight""",11.75,3,4
+129,"""Camp Midnight""",11.64,3,4
+130,"""Camp Midnight""",18.51,3,4
+131,"""Camp Midnight""",36.52,2,4
+132,"""Camp Midnight""",54.12,3,4
+133,"""Camp Midnight""",10.64,3,4
+134,"""Camp Midnight""",42.12,3,4
+135,"""Camp Midnight""",28.48,1,4
+136,"""Camp Midnight""",46.96,5,4
+137,"""Camp Midnight""",21.71,4,4
+138,"""Camp Midnight""",29.87,3,4
+139,"""Camp Midnight""",39.39,4,4
+140,"""Camp Midnight""",45.24,3,4
+141,"""Camp Midnight""",56.76,4,4
+142,"""Camp Midnight""",40.28,5,4
+143,"""Camp Midnight""",34.65,5,4
+144,"""Camp Midnight""",57.06,4,4
+145,"""The Secret Garden""",15.08,3,5
+146,"""The Metamorphosis""",28.58,1,5
+148,"""The Hound of the Baskervilles (Sherlock Holmes #5)""",14.82,3,5
+149,"""Little Women (Little Women #1)""",28.07,4,5
+150,"""Gone with the Wind""",32.49,3,5
+151,"""Candide""",58.63,3,5
+152,"""Animal Farm""",57.22,3,5
+153,"""Wuthering Heights""",17.73,3,5
+154,"""The Picture of Dorian Gray""",29.7,2,5
+155,"""The Complete Stories and Poems (The Works of Edgar Allan Poe [Cameo Edition])""",26.78,4,5
+156,"""Beowulf""",38.35,2,5
+157,"""And Then There Were None""",35.01,2,5
+158,"""The Story of Hong Gildong""",43.19,4,5
+159,"""The Little Prince""",45.42,2,5
+160,"""Sense and Sensibility""",37.46,1,5
+161,"""Of Mice and Men""",47.11,2,5
+162,"""Emma""",32.93,2,5
+164,"""Sophie's World""",15.94,3,6
+165,"""The Death of Humanity: and the Case for Life""",58.11,4,6
+166,"""The Stranger""",17.44,3,6
+168,"""Kierkegaard: A Christian Missionary to Christians""",47.13,1,6
+169,"""At The Existentialist CafÃ©: Freedom, Being, and apricot cocktails with: Jean-Paul Sartre, Simone de Beauvoir, Albert Camus, Martin Heidegger, Edmund Husserl, Karl Jaspers, Maurice Merleau-Ponty and others""",29.93,5,6
+170,"""Critique of Pure Reason""",20.75,1,6
+171,"""Run, Spot, Run: The Ethics of Keeping Pets""",20.02,1,6
+172,"""The Nicomachean Ethics""",36.34,1,6
+173,"""Meditations""",25.89,2,6
+174,"""Beyond Good and Evil""",43.38,1,6
+175,"""Chase Me (Paris Nights #2)""",25.27,5,7
+176,"""Black Dust""",34.53,5,7
+177,"""Her Backup Boyfriend (The Sorensen Family #1)""",33.97,1,7
+178,"""First and First (Five Boroughs #3)""",15.97,3,7
+179,"""Fifty Shades Darker (Fifty Shades #2)""",21.96,1,7
+180,"""The Wedding Dress""",24.12,1,7
+182,"""Something More Than This""",16.24,3,7
+183,"""Doing It Over (Most Likely To #1)""",35.61,3,7
+184,"""The Wedding Pact (The O'Malleys #2)""",32.61,3,7
+185,"""Hold Your Breath (Search and Rescue #1)""",28.82,1,7
+186,"""Dirty (Dive Bar #1)""",40.83,4,7
+187,"""Take Me Home Tonight (Rock Star Romance #3)""",53.98,3,7
+188,"""Off the Hook (Fishing for Trouble #1)""",47.67,3,7
+189,"""A Gentleman's Position (Society of Gentlemen #3)""",14.75,3,7
+190,"""Sit, Stay, Love""",20.9,3,7
+191,"""A Girl's Guide to Moving On (New Beginnings #2)""",31.3,1,7
+192,"""The Perfect Play (Play by Play #1)""",59.99,3,7
+193,"""Dark Lover (Black Dagger Brotherhood #1)""",12.87,3,7
+194,"""Changing the Game (Play by Play #2)""",13.38,3,7
+196,"""Changing the Game (Play by Play #2)""",12.25,3,7
+197,"""Changing the Game (Play by Play #2)""",45.43,1,7
+198,"""Changing the Game (Play by Play #2)""",11.1,3,7
+199,"""Changing the Game (Play by Play #2)""",27.41,2,7
+200,"""Changing the Game (Play by Play #2)""",39.77,3,7
+201,"""Changing the Game (Play by Play #2)""",48.71,1,7
+202,"""Changing the Game (Play by Play #2)""",28.34,2,7
+203,"""Changing the Game (Play by Play #2)""",38.92,2,7
+204,"""Changing the Game (Play by Play #2)""",58.99,3,7
+205,"""Changing the Game (Play by Play #2)""",34.74,4,7
+206,"""Changing the Game (Play by Play #2)""",39.24,3,7
+207,"""Changing the Game (Play by Play #2)""",47.09,5,7
+208,"""Changing the Game (Play by Play #2)""",41.24,1,7
+209,"""Changing the Game (Play by Play #2)""",37.26,4,7
+210,"""I Had a Nice Time And Other Lies...: How to find love & sh*t like that""",57.36,4,8
+211,"""Will You Won't You Want Me?""",13.86,3,8
+212,"""Keep Me Posted""",20.46,4,8
+213,"""Grey (Fifty Shades #4)""",48.49,4,8
+214,"""Meternity""",43.58,3,8
+215,"""Some Women""",13.73,3,8
+216,"""Shopaholic Ties the Knot (Shopaholic #3)""",48.39,5,8
+217,"""Can You Keep a Secret?""",21.94,1,8
+218,"""Twenties Girl""",42.8,2,8
+219,"""The Undomestic Goddess""",45.75,4,8
+220,"""The Nanny Diaries (Nanny #1)""",52.53,5,8
+221,"""The Devil Wears Prada (The Devil Wears Prada #1)""",44.29,1,8
+222,"""Something Borrowed (Darcy & Rachel #1)""",48.96,5,8
+224,"""I've Got Your Number""",19.69,3,8
+225,"""The Edge of Reason (Bridget Jones #2)""",19.18,3,8
+226,"""Bridget Jones's Diary (Bridget Jones #1)""",29.82,1,8
+228,"""Private Paris (Private #10)""",47.61,5,9
+229,"""We Love You, Charlie Freeman""",50.27,5,9
+230,"""Thirst""",17.27,3,9
+231,"""The Murder That Never Was (Forensic Instincts #5)""",54.11,3,9
+232,"""Tuesday Nights in 1980""",21.04,2,9
+233,"""The Vacationers""",42.15,4,9
+234,"""The Regional Office Is Under Attack!""",51.36,5,9
+235,"""Finders Keepers (Bill Hodges Trilogy #2)""",53.53,5,9
+236,"""The Time Keeper""",27.88,5,9
+237,"""The Testament of Mary""",52.67,4,9
+238,"""The First Hostage (J.B. Collins #2)""",25.85,3,9
+239,"""Take Me with You""",45.21,3,9
+240,"""Still Life with Bread Crumbs""",26.41,3,9
+241,"""Shtum""",55.84,4,9
+242,"""My Name Is Lucy Barton""",41.56,1,9
+243,"""My Mrs. Brown""",24.48,3,9
+244,"""Mr. Mercedes (Bill Hodges Trilogy #1)""",28.9,1,9
+245,"""I Am Pilgrim (Pilgrim #1)""",10.6,3,9
+246,"""Eligible (The Austen Project #4)""",27.09,3,9
+247,"""Eligible (The Austen Project #4)""",14.39,3,9
+248,"""Eligible (The Austen Project #4)""",11.21,3,9
+249,"""Eligible (The Austen Project #4)""",25.01,3,9
+250,"""Eligible (The Austen Project #4)""",17.03,3,9
+251,"""Eligible (The Austen Project #4)""",39.72,1,9
+252,"""Eligible (The Austen Project #4)""",46.29,5,9
+255,"""Eligible (The Austen Project #4)""",13.34,3,9
+256,"""Eligible (The Austen Project #4)""",45.14,1,9
+257,"""Eligible (The Austen Project #4)""",16.34,3,9
+258,"""Eligible (The Austen Project #4)""",48.48,3,9
+259,"""Eligible (The Austen Project #4)""",28.03,1,9
+262,"""Eligible (The Austen Project #4)""",21.96,4,9
+263,"""Eligible (The Austen Project #4)""",42.78,4,9
+264,"""Eligible (The Austen Project #4)""",40.2,4,9
+265,"""Eligible (The Austen Project #4)""",49.67,3,9
+266,"""Eligible (The Austen Project #4)""",19.02,3,9
+267,"""Eligible (The Austen Project #4)""",40.32,4,9
+268,"""Eligible (The Austen Project #4)""",24.73,3,9
+269,"""Eligible (The Austen Project #4)""",45.56,3,9
+270,"""Eligible (The Austen Project #4)""",44.58,2,9
+271,"""Eligible (The Austen Project #4)""",34.22,5,9
+272,"""Eligible (The Austen Project #4)""",59.98,3,9
+273,"""Eligible (The Austen Project #4)""",58,5,9
+274,"""Eligible (The Austen Project #4)""",26.58,5,9
+275,"""Eligible (The Austen Project #4)""",23.21,3,9
+276,"""Eligible (The Austen Project #4)""",26.26,4,9
+277,"""Eligible (The Austen Project #4)""",27.41,1,9
+278,"""Eligible (The Austen Project #4)""",52.51,5,9
+279,"""Eligible (The Austen Project #4)""",22.96,2,9
+280,"""Eligible (The Austen Project #4)""",22.1,1,9
+281,"""Eligible (The Austen Project #4)""",12.47,3,9
+282,"""Eligible (The Austen Project #4)""",44.97,1,9
+283,"""Eligible (The Austen Project #4)""",41,5,9
+284,"""Eligible (The Austen Project #4)""",49.13,5,9
+285,"""Eligible (The Austen Project #4)""",22.11,1,9
+286,"""Eligible (The Austen Project #4)""",16.78,3,9
+287,"""Eligible (The Austen Project #4)""",51.96,3,9
+288,"""Eligible (The Austen Project #4)""",12.34,3,9
+289,"""Eligible (The Austen Project #4)""",30.66,3,9
+290,"""Eligible (The Austen Project #4)""",57.2,5,9
+291,"""Eligible (The Austen Project #4)""",39.07,5,9
+292,"""Birdsong: A Story in Pictures""",54.64,3,10
+293,"""The Bear and the Piano""",36.89,1,10
+295,"""The White Cat and the Monk: A Retelling of the Poem âPangur BÃ¡nâ""",58.08,4,10
+296,"""Little Red""",13.47,3,10
+297,"""Walt Disney's Alice in Wonderland""",12.96,3,10
+298,"""Twenty Yawns""",22.08,2,10
+299,"""Rain Fish""",23.57,3,10
+300,"""Once Was a Time""",18.28,3,10
+301,"""Luis Paints the World""",53.95,3,10
+302,"""Nap-a-Roo""",25.08,1,10
+303,"""The Whale""",35.96,4,10
+304,"""Shrunken Treasures: Literary Classics, Short, Sweet, and Silly""",52.87,3,10
+305,"""Raymie Nightingale""",34.41,2,10
+306,"""Playing from the Heart""",32.38,1,10
+307,"""Maybe Something Beautiful: How Art Transformed a Neighborhood""",22.54,1,10
+308,"""The Wild Robot""",56.07,3,10
+309,"""The Thing About Jellyfish""",48.77,1,10
+310,"""The Lonely Ones""",43.59,5,10
+311,"""The Day the Crayons Came Home (Crayons)""",26.33,5,10
+312,"""The Day the Crayons Came Home (Crayons)""",16.26,3,10
+313,"""The Day the Crayons Came Home (Crayons)""",28.54,3,10
+314,"""The Day the Crayons Came Home (Crayons)""",37.52,2,10
+315,"""The Day the Crayons Came Home (Crayons)""",10.79,3,10
+316,"""The Day the Crayons Came Home (Crayons)""",10.62,3,10
+317,"""The Day the Crayons Came Home (Crayons)""",10.66,3,10
+318,"""The Day the Crayons Came Home (Crayons)""",52.88,4,10
+319,"""The Day the Crayons Came Home (Crayons)""",28.34,1,10
+320,"""The Day the Crayons Came Home (Crayons)""",22.85,3,10
+321,"""Don't Be a Jerk: And Other Practical Advice from Dogen, Japan's Greatest Zen Master""",37.97,2,11
+322,"""You Are What You Love: The Spiritual Power of Habit""",21.87,4,11
+323,"""God: The Most Unpleasant Character in All Fiction""",30.03,5,11
+324,"""The Book of Mormon""",24.57,3,11
+325,"""A History of God: The 4,000-Year Quest of Judaism, Christianity, and Islam""",27.62,1,11
+326,"""The Bhagavad Gita""",57.49,3,11
+327,"""Choosing Our Religion: The Spiritual Lives of America's Nones""",28.42,4,11
+328,"""Worlds Elsewhere: Journeys Around Shakespeare's Globe""",40.3,5,12
+329,"""The Five Love Languages: How to Express Heartfelt Commitment to Your Mate""",31.05,3,12
+330,"""Reasons to Stay Alive""",26.41,2,12
+331,"""#HigherSelfie: Wake Up Your Life. Free Your Soul. Find Your Tribe.""",23.11,5,12
+332,"""Unseen City: The Majesty of Pigeons, the Discreet Charm of Snails & Other Wonders of the Urban Wilderness""",44.18,4,12
+333,"""Throwing Rocks at the Google Bus: How Growth Became the Enemy of Prosperity""",31.12,3,12
+334,"""The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing""",16.77,3,12
+335,"""The Gutsy Girl: Escapades for Your Life of Epic Adventure""",37.13,1,12
+337,"""Spark Joy: An Illustrated Master Class on the Art of Organizing and Tidying Up""",41.83,4,12
+338,"""Reskilling America: Learning to Labor in the Twenty-First Century""",19.83,3,12
+339,"""In the Country We Love: My Family Divided""",22,4,12
+341,"""Call the Nurse: True Stories of a Country Nurse on a Scottish Isle""",29.14,5,12
+342,"""Algorithms to Live By: The Computer Science of Human Decisions""",30.81,1,12
+343,"""The Power of Now: A Guide to Spiritual Enlightenment""",43.54,2,12
+344,"""The Omnivore's Dilemma: A Natural History of Four Meals""",38.21,2,12
+345,"""The Genius of Birds""",17.24,3,12
+346,"""The Artist's Way: A Spiritual Path to Higher Creativity""",38.49,5,12
+347,"""So You've Been Publicly Shamed""",12.23,3,12
+348,"""So You've Been Publicly Shamed""",19.43,3,12
+349,"""So You've Been Publicly Shamed""",30.8,3,12
+350,"""So You've Been Publicly Shamed""",27.43,2,12
+351,"""So You've Been Publicly Shamed""",12.51,3,12
+352,"""So You've Been Publicly Shamed""",38.2,4,12
+353,"""So You've Been Publicly Shamed""",19.6,3,12
+354,"""So You've Been Publicly Shamed""",43.04,2,12
+355,"""So You've Been Publicly Shamed""",17.43,3,12
+356,"""So You've Been Publicly Shamed""",15.77,3,12
+357,"""So You've Been Publicly Shamed""",45.58,1,12
+358,"""So You've Been Publicly Shamed""",21.95,2,12
+359,"""So You've Been Publicly Shamed""",29.14,5,12
+360,"""So You've Been Publicly Shamed""",26.79,5,12
+361,"""So You've Been Publicly Shamed""",58.79,3,12
+362,"""So You've Been Publicly Shamed""",15.06,3,12
+363,"""So You've Been Publicly Shamed""",51.75,5,12
+364,"""So You've Been Publicly Shamed""",37.8,4,12
+365,"""So You've Been Publicly Shamed""",49.32,5,12
+366,"""So You've Been Publicly Shamed""",56.37,5,12
+367,"""So You've Been Publicly Shamed""",27.06,1,12
+368,"""So You've Been Publicly Shamed""",33.26,2,12
+369,"""So You've Been Publicly Shamed""",59.9,3,12
+370,"""So You've Been Publicly Shamed""",21.21,3,12
+371,"""So You've Been Publicly Shamed""",41.46,4,12
+372,"""So You've Been Publicly Shamed""",11.68,3,12
+373,"""So You've Been Publicly Shamed""",16.89,3,12
+374,"""So You've Been Publicly Shamed""",19.53,3,12
+375,"""So You've Been Publicly Shamed""",24.57,2,12
+376,"""So You've Been Publicly Shamed""",35.92,2,12
+377,"""So You've Been Publicly Shamed""",34.06,3,12
+378,"""So You've Been Publicly Shamed""",17.76,3,12
+379,"""So You've Been Publicly Shamed""",39.36,2,12
+380,"""So You've Been Publicly Shamed""",28.45,4,12
+381,"""So You've Been Publicly Shamed""",38.89,5,12
+382,"""So You've Been Publicly Shamed""",21.82,3,12
+383,"""So You've Been Publicly Shamed""",29.48,3,12
+384,"""So You've Been Publicly Shamed""",25.06,2,12
+385,"""So You've Been Publicly Shamed""",12.55,3,12
+386,"""So You've Been Publicly Shamed""",44.21,1,12
+387,"""So You've Been Publicly Shamed""",19.22,3,12
+388,"""So You've Been Publicly Shamed""",56.91,4,12
+389,"""So You've Been Publicly Shamed""",55.06,4,12
+390,"""So You've Been Publicly Shamed""",13.2,3,12
+391,"""So You've Been Publicly Shamed""",45.13,3,12
+392,"""So You've Been Publicly Shamed""",46.64,2,12
+393,"""So You've Been Publicly Shamed""",59.45,4,12
+394,"""So You've Been Publicly Shamed""",49.98,4,12
+395,"""So You've Been Publicly Shamed""",42.14,3,12
+396,"""So You've Been Publicly Shamed""",48.67,2,12
+397,"""So You've Been Publicly Shamed""",25.15,4,12
+398,"""So You've Been Publicly Shamed""",31.63,4,12
+399,"""So You've Been Publicly Shamed""",32.35,3,12
+400,"""So You've Been Publicly Shamed""",38.71,3,12
+401,"""So You've Been Publicly Shamed""",16.81,3,12
+402,"""So You've Been Publicly Shamed""",28.23,2,12
+403,"""So You've Been Publicly Shamed""",27.8,1,12
+404,"""So You've Been Publicly Shamed""",31.95,3,12
+405,"""So You've Been Publicly Shamed""",50.66,3,12
+407,"""So You've Been Publicly Shamed""",30,1,12
+409,"""So You've Been Publicly Shamed""",37.25,2,12
+410,"""So You've Been Publicly Shamed""",36.74,3,12
+411,"""So You've Been Publicly Shamed""",49.51,1,12
+412,"""So You've Been Publicly Shamed""",41.67,4,12
+413,"""So You've Been Publicly Shamed""",14.16,3,12
+414,"""So You've Been Publicly Shamed""",40.17,1,12
+415,"""So You've Been Publicly Shamed""",13.51,3,12
+417,"""So You've Been Publicly Shamed""",22.2,1,12
+418,"""So You've Been Publicly Shamed""",45.11,1,12
+419,"""So You've Been Publicly Shamed""",42.38,1,12
+420,"""So You've Been Publicly Shamed""",56.7,5,12
+421,"""So You've Been Publicly Shamed""",28.85,3,12
+422,"""So You've Been Publicly Shamed""",28.88,2,12
+423,"""So You've Been Publicly Shamed""",26.66,5,12
+424,"""So You've Been Publicly Shamed""",15.28,3,12
+425,"""So You've Been Publicly Shamed""",51.32,5,12
+426,"""So You've Been Publicly Shamed""",27.35,2,12
+427,"""So You've Been Publicly Shamed""",21.74,5,12
+428,"""So You've Been Publicly Shamed""",40.87,1,12
+430,"""So You've Been Publicly Shamed""",30.48,4,12
+431,"""So You've Been Publicly Shamed""",11.89,3,12
+432,"""So You've Been Publicly Shamed""",34,3,12
+433,"""So You've Been Publicly Shamed""",57.42,5,12
+434,"""So You've Been Publicly Shamed""",57.82,5,12
+435,"""So You've Been Publicly Shamed""",41.56,5,12
+436,"""So You've Been Publicly Shamed""",14.4,3,12
+437,"""So You've Been Publicly Shamed""",51.32,3,12
+438,"""Rip it Up and Start Again""",35.02,5,13
+439,"""Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991""",57.25,3,13
+440,"""How Music Works""",37.32,2,13
+441,"""Love Is a Mix Tape (Music #1)""",18.03,3,13
+442,"""Please Kill Me: The Uncensored Oral History of Punk""",31.19,4,13
+443,"""Kill 'Em and Leave: Searching for James Brown and the American Soul""",45.05,5,13
+445,"""This Is Your Brain on Music: The Science of a Human Obsession""",38.4,1,13
+446,"""Orchestra of Exiles: The Story of Bronislaw Huberman, the Israel Philharmonic, and the One Thousand Jews He Saved from Nazi Horrors""",12.36,3,13
+447,"""No One Here Gets Out Alive""",20.02,5,13
+448,"""Life""",31.58,5,13
+450,"""Forever Rockers (The Rocker #12)""",28.8,3,13
+451,"""The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull""",17.93,3,14
+452,"""The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics""",22.6,4,14
+453,"""Starving Hearts (Triangular Trade Trilogy, #1)""",13.99,3,14
+454,"""America's Cradle of Quarterbacks: Western Pennsylvania's Football Factory from Johnny Unitas to Joe Montana""",22.5,3,14
+455,"""Aladdin and His Wonderful Lamp""",53.13,3,14
+456,"""Penny Maybe""",33.29,3,14
+457,"""Maude (1883-1993):She Grew Up with the country""",18.02,3,14
+458,"""The Inefficiency Assassin: Time Management Tactics for Working Smarter, Not Longer""",20.59,5,14
+459,"""Soul Reader""",39.58,2,14
+460,"""Bossypants""",49.46,2,14
+461,"""A World of Flavor: Your Gluten Free Passport""",42.95,1,14
+462,"""A Piece of Sky, a Grain of Rice: A Memoir in Four Meditations""",56.76,5,14
+463,"""Tracing Numbers on a Train""",41.6,3,14
+465,"""The Secret (The Secret #1)""",27.37,4,14
+466,"""The Psychopath Test: A Journey Through the Madness Industry""",36,2,14
+467,"""The Kite Runner""",41.82,4,14
+469,"""The Emerald Mystery""",23.15,2,14
+470,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",32,3,14
+471,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",33.34,5,14
+472,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",20.27,1,14
+473,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",36.94,1,14
+474,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",41.06,1,14
+475,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",10.76,3,14
+476,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",19.15,3,14
+477,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",22.16,2,14
+478,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",29,1,14
+479,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",54.59,4,14
+480,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",34.95,4,14
+481,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",37.72,5,14
+482,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",11.11,3,14
+483,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",15.48,3,14
+484,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",46.82,4,14
+485,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",18.46,3,14
+486,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",50.54,5,14
+487,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",37.1,4,14
+488,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",45.95,2,14
+489,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",56.8,4,14
+490,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",44.48,5,14
+492,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",16.88,3,14
+493,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",39.5,5,14
+494,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",49.83,3,14
+495,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",46.91,4,14
+496,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",16.28,3,14
+497,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",47.02,3,14
+498,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",10.23,3,14
+499,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",46.47,3,14
+500,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",36.58,1,14
+501,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",44.14,1,14
+502,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",11.23,3,14
+503,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",43.28,1,14
+504,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",47.27,1,14
+505,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",31.85,3,14
+506,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",46.23,2,14
+507,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",51.48,3,14
+508,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",13.33,3,14
+509,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",49.67,4,14
+510,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",58.32,5,14
+511,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",56.51,5,14
+512,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",48.39,2,14
+513,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",20.88,5,14
+514,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",58.87,4,14
+515,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",11.82,3,14
+516,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",44.05,5,14
+517,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",16.68,3,14
+518,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",10.41,3,14
+519,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",47.44,2,14
+520,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",43.62,5,14
+521,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",41.39,2,14
+522,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",40.72,2,14
+523,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",20.22,4,14
+526,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",43.64,1,14
+527,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",37.51,4,14
+528,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",22.14,2,14
+529,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",34.72,1,14
+530,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",36.05,4,14
+531,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",49.03,3,14
+532,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",33.17,4,14
+533,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",20.9,2,14
+534,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",13.22,3,14
+535,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",57.84,5,14
+536,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",55.02,3,14
+537,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",31.58,2,14
+538,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",17.8,3,14
+539,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",10.27,3,14
+540,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",30.6,3,14
+541,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",46.58,1,14
+542,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",53.68,4,14
+543,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",47.22,1,14
+544,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",34.5,1,14
+545,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",11.83,3,14
+546,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",16.23,3,14
+547,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",11.48,3,14
+548,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",38.13,5,14
+549,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",36.55,2,14
+550,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",23.32,1,14
+551,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",16.96,3,14
+552,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",38.7,2,14
+553,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",34.13,5,14
+554,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",58.59,4,14
+555,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",52.35,4,14
+556,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",27.88,3,14
+557,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",29.85,5,14
+558,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",19.67,3,14
+559,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",20.44,4,14
+560,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",13.9,3,14
+561,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",48.94,2,14
+562,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",34.77,1,14
+563,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",21.8,1,14
+564,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",46.02,3,14
+565,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",18.13,3,14
+566,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",41.93,2,14
+567,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",36.8,3,14
+568,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",20.93,1,14
+570,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",43.58,3,14
+571,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",12.3,3,14
+572,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",22.14,2,14
+573,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",52.25,4,14
+575,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",23.43,2,14
+576,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",46.45,2,14
+577,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",43.55,1,14
+579,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",24.61,2,14
+580,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",32.87,2,14
+581,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",29.4,1,14
+582,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",26.13,2,14
+583,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",25.02,1,14
+584,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",20.11,3,14
+585,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",37.6,5,14
+586,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",38.62,1,14
+587,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",18.74,3,14
+588,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",52.62,3,14
+589,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",39.24,5,14
+590,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",17.81,3,14
+591,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",23.9,5,14
+592,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",35.28,5,14
+593,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",21.55,5,14
+594,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",14.08,3,14
+595,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",19.69,3,14
+596,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",50.59,3,14
+597,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",18.88,3,14
+598,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",42.4,1,14
+599,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",24.96,1,14
+600,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",32.36,3,14
+601,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",38.43,5,14
+602,"""The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.""",38,2,14
+603,"""Mesaerion: The Best Science Fiction Stories 1800-1849""",37.59,1,15
+604,"""Join""",35.67,5,15
+605,"""William Shakespeare's Star Wars: Verily, A New Hope (William Shakespeare's Star Wars #4)""",43.3,4,15
+606,"""The Project""",10.65,3,15
+607,"""Soft Apocalypse""",26.12,2,15
+608,"""Sleeping Giants (Themis Files #1)""",48.74,1,15
+609,"""Arena""",21.36,4,15
+610,"""Foundation (Foundation (Publication Order) #1)""",32.42,1,15
+611,"""The Restaurant at the End of the Universe (Hitchhiker's Guide to the Galaxy #2)""",10.92,3,15
+612,"""Ready Player One""",19.07,3,15
+613,"""Life, the Universe and Everything (Hitchhiker's Guide to the Galaxy #3)""",33.26,2,15
+616,"""Three Wishes (River of Time: California #1)""",44.18,2,15
+617,"""The Last Girl (The Dominion Trilogy #1)""",36.26,2,15
+618,"""Having the Barbarian's Baby (Ice Planet Barbarians #7.5)""",34.96,4,15
+619,"""The Book of Basketball: The NBA According to The Sports Guy""",44.84,5,16
+620,"""Friday Night Lights: A Town, a Team, and a Dream""",51.22,3,16
+621,"""Sugar Rush (Offensive Line #2)""",24.42,1,16
+622,"""Settling the Score (The Summer Games #1)""",44.91,2,16
+623,"""Icing (Aces Hockey #2)""",40.44,4,16
+624,"""The Torch Is Passed: A Harding Family Story""",19.09,3,17
+625,"""The Mindfulness and Acceptance Workbook for Anxiety: A Guide to Breaking Free from Anxiety, Phobias, and Worry Using Acceptance and Commitment Therapy""",23.89,4,17
+626,"""The Art Forger""",40.76,3,17
+627,"""On a Midnight Clear""",14.07,3,17
+629,"""Shobu Samurai, Project Aryoku (#3)""",29.06,3,17
+630,"""Modern Romance""",28.26,5,17
+631,"""The White Queen (The Cousins' War #1)""",25.91,5,17
+632,"""The Song of Achilles""",37.4,5,17
+633,"""The Immortal Life of Henrietta Lacks""",40.67,2,17
+634,"""The Dovekeepers""",48.78,1,17
+635,"""More Than Music (Chasing the Dream #1)""",37.61,2,17
+636,"""Code Name Verity (Code Name Verity #1)""",22.13,4,17
+637,"""Cell""",20.29,4,17
+638,"""Angels Walking (Angels Walking #1)""",34.2,2,17
+640,"""A People's History of the United States""",40.79,2,17
+642,"""Rook""",37.86,4,17
+643,"""The Midnight Watch: A Novel of the Titanic and the Californian""",26.2,1,17
+644,"""The Midnight Watch: A Novel of the Titanic and the Californian""",59.15,4,17
+645,"""The Midnight Watch: A Novel of the Titanic and the Californian""",11.88,3,17
+646,"""The Midnight Watch: A Novel of the Titanic and the Californian""",15.71,3,17
+647,"""The Midnight Watch: A Novel of the Titanic and the Californian""",48.27,5,17
+648,"""The Midnight Watch: A Novel of the Titanic and the Californian""",58.05,4,17
+649,"""The Midnight Watch: A Novel of the Titanic and the Californian""",50.49,3,17
+650,"""The Midnight Watch: A Novel of the Titanic and the Californian""",35.79,2,17
+651,"""The Midnight Watch: A Novel of the Titanic and the Californian""",16.24,3,17
+652,"""The Midnight Watch: A Novel of the Titanic and the Californian""",35.67,3,17
+653,"""The Midnight Watch: A Novel of the Titanic and the Californian""",20.12,5,17
+654,"""The Midnight Watch: A Novel of the Titanic and the Californian""",57.43,4,17
+655,"""The Midnight Watch: A Novel of the Titanic and the Californian""",37.05,5,17
+656,"""The Midnight Watch: A Novel of the Titanic and the Californian""",43.27,4,17
+657,"""The Midnight Watch: A Novel of the Titanic and the Californian""",18.77,3,17
+658,"""The Midnight Watch: A Novel of the Titanic and the Californian""",46.85,3,17
+659,"""The Midnight Watch: A Novel of the Titanic and the Californian""",19.27,3,17
+660,"""The Midnight Watch: A Novel of the Titanic and the Californian""",48.51,3,17
+661,"""The Midnight Watch: A Novel of the Titanic and the Californian""",56.59,4,17
+662,"""The Midnight Watch: A Novel of the Titanic and the Californian""",30.57,2,17
+663,"""The Midnight Watch: A Novel of the Titanic and the Californian""",22.37,1,17
+664,"""The Midnight Watch: A Novel of the Titanic and the Californian""",42.27,1,17
+665,"""The Midnight Watch: A Novel of the Titanic and the Californian""",46.42,2,17
+666,"""The Midnight Watch: A Novel of the Titanic and the Californian""",10.79,3,17
+667,"""The Midnight Watch: A Novel of the Titanic and the Californian""",10.02,3,17
+668,"""The Midnight Watch: A Novel of the Titanic and the Californian""",34.77,1,17
+669,"""The Midnight Watch: A Novel of the Titanic and the Californian""",37.19,3,17
+670,"""The Midnight Watch: A Novel of the Titanic and the Californian""",47.8,3,17
+672,"""The Midnight Watch: A Novel of the Titanic and the Californian""",22.13,4,17
+673,"""The Midnight Watch: A Novel of the Titanic and the Californian""",41.32,5,17
+674,"""The Midnight Watch: A Novel of the Titanic and the Californian""",24.55,1,17
+675,"""The Midnight Watch: A Novel of the Titanic and the Californian""",47.84,1,17
+676,"""The Midnight Watch: A Novel of the Titanic and the Californian""",53.71,5,17
+678,"""The Midnight Watch: A Novel of the Titanic and the Californian""",46.29,1,17
+679,"""The Midnight Watch: A Novel of the Titanic and the Californian""",50.11,3,17
+680,"""The Midnight Watch: A Novel of the Titanic and the Californian""",34.98,2,17
+681,"""The Midnight Watch: A Novel of the Titanic and the Californian""",21.28,4,17
+682,"""The Midnight Watch: A Novel of the Titanic and the Californian""",36.17,2,17
+684,"""The Midnight Watch: A Novel of the Titanic and the Californian""",31.38,3,17
+685,"""The Midnight Watch: A Novel of the Titanic and the Californian""",33.78,3,17
+686,"""The Midnight Watch: A Novel of the Titanic and the Californian""",29.64,3,17
+688,"""The Midnight Watch: A Novel of the Titanic and the Californian""",16.16,3,17
+689,"""The Midnight Watch: A Novel of the Titanic and the Californian""",14.76,3,17
+690,"""The Midnight Watch: A Novel of the Titanic and the Californian""",24.89,3,17
+691,"""Unicorn Tracks""",18.78,3,18
+692,"""Saga, Volume 6 (Saga (Collected Editions) #6)""",25.02,3,18
+693,"""Princess Between Worlds (Wide-Awake Princess #5)""",13.34,3,18
+695,"""Crown of Midnight (Throne of Glass #2)""",43.29,3,18
+696,"""Avatar: The Last Airbender: Smoke and Shadow, Part 3 (Smoke and Shadow #3)""",28.09,2,18
+698,"""Throne of Glass (Throne of Glass #1)""",35.07,3,18
+699,"""The Glittering Court (The Glittering Court #1)""",44.28,1,18
+700,"""Hollow City (Miss Peregrine's Peculiar Children #2)""",42.98,1,18
+701,"""The Star-Touched Queen""",46.02,5,18
+703,"""The Bane Chronicles (The Bane Chronicles #1-11)""",44.73,4,18
+704,"""Island of Dragons (Unwanteds #7)""",29.65,1,18
+705,"""Demigods & Magicians: Percy and Annabeth Meet the Kanes (Percy Jackson & Kane Chronicles Crossover #1-3)""",37.51,5,18
+706,"""City of Glass (The Mortal Instruments #3)""",56.02,4,18
+707,"""Searching for Meaning in Gailana""",38.73,1,18
+708,"""The Star-Touched Queen""",32.3,5,18
+709,"""A Shard of Ice (The Black Symphony Saga #1)""",56.63,3,18
+710,"""King's Folly (The Kinsman Chronicles #1)""",39.61,5,18
+711,"""King's Folly (The Kinsman Chronicles #1)""",12.16,3,18
+712,"""King's Folly (The Kinsman Chronicles #1)""",44.81,4,18
+713,"""King's Folly (The Kinsman Chronicles #1)""",57.74,4,18
+714,"""King's Folly (The Kinsman Chronicles #1)""",56,5,18
+715,"""King's Folly (The Kinsman Chronicles #1)""",45.51,3,18
+716,"""King's Folly (The Kinsman Chronicles #1)""",17.21,3,18
+718,"""King's Folly (The Kinsman Chronicles #1)""",46.08,5,18
+719,"""King's Folly (The Kinsman Chronicles #1)""",49.45,5,18
+720,"""King's Folly (The Kinsman Chronicles #1)""",31.63,4,18
+721,"""King's Folly (The Kinsman Chronicles #1)""",48.75,5,18
+722,"""King's Folly (The Kinsman Chronicles #1)""",14.74,3,18
+723,"""King's Folly (The Kinsman Chronicles #1)""",58.64,4,18
+724,"""King's Folly (The Kinsman Chronicles #1)""",24.72,2,18
+726,"""King's Folly (The Kinsman Chronicles #1)""",44.07,4,18
+727,"""King's Folly (The Kinsman Chronicles #1)""",43.87,3,18
+729,"""King's Folly (The Kinsman Chronicles #1)""",22.06,4,18
+730,"""King's Folly (The Kinsman Chronicles #1)""",31.22,2,18
+732,"""King's Folly (The Kinsman Chronicles #1)""",36.25,3,18
+733,"""King's Folly (The Kinsman Chronicles #1)""",29.38,1,18
+734,"""King's Folly (The Kinsman Chronicles #1)""",13.33,3,18
+735,"""King's Folly (The Kinsman Chronicles #1)""",21.72,4,18
+736,"""King's Folly (The Kinsman Chronicles #1)""",28.99,1,18
+738,"""King's Folly (The Kinsman Chronicles #1)""",58.75,4,18
+739,"""Without Borders (Wanderlove #1)""",45.07,2,19
+740,"""The Mistake (Off-Campus #2)""",43.29,3,19
+742,"""The Hook Up (Game On #1)""",36.29,5,19
+743,"""Shameless""",58.35,3,19
+744,"""Off Sides (Off #1)""",39.45,5,19
+745,"""The Requiem Red""",22.65,1,20
+746,"""Set Me Free""",17.46,3,20
+747,"""The Natural History of Us (The Fine Art of Pretending #2)""",45.22,3,20
+748,"""Obsidian (Lux #1)""",14.86,3,20
+749,"""Burning""",28.81,3,20
+750,"""A Fierce and Subtle Poison""",28.13,4,20
+751,"""Scarlett Epstein Hates It Here""",43.55,5,20
+752,"""Nightingale, Sing""",38.28,1,20
+753,"""Library of Souls (Miss Peregrine's Peculiar Children #3)""",48.56,5,20
+754,"""Frostbite (Vampire Academy #2)""",29.99,5,20
+755,"""Wild Swans""",14.36,3,20
+756,"""Until Friday Night (The Field Party #1)""",46.31,2,20
+757,"""This Is Where It Ends""",27.12,2,20
+758,"""The Darkest Lie""",35.35,5,20
+759,"""My Kind of Crazy""",40.36,1,20
+761,"""Catching Jordan (Hundred Oaks)""",50.83,3,20
+762,"""Aristotle and Dante Discover the Secrets of the Universe (Aristotle and Dante Discover the Secrets of the Universe #1)""",58.14,4,20
+763,"""The Epidemic (The Program 0.6)""",14.44,3,20
+764,"""Stars Above (The Lunar Chronicles #4.5)""",48.05,2,20
+765,"""Stars Above (The Lunar Chronicles #4.5)""",54.65,4,20
+766,"""Stars Above (The Lunar Chronicles #4.5)""",51.34,4,20
+768,"""Stars Above (The Lunar Chronicles #4.5)""",33.23,1,20
+769,"""Stars Above (The Lunar Chronicles #4.5)""",28.93,1,20
+770,"""Stars Above (The Lunar Chronicles #4.5)""",36.39,5,20
+771,"""Stars Above (The Lunar Chronicles #4.5)""",55.65,5,20
+772,"""Stars Above (The Lunar Chronicles #4.5)""",50.35,4,20
+774,"""Stars Above (The Lunar Chronicles #4.5)""",47.31,4,20
+775,"""Stars Above (The Lunar Chronicles #4.5)""",41.73,4,20
+776,"""Stars Above (The Lunar Chronicles #4.5)""",14.64,3,20
+777,"""Stars Above (The Lunar Chronicles #4.5)""",11.33,3,20
+778,"""Stars Above (The Lunar Chronicles #4.5)""",41.81,1,20
+779,"""Stars Above (The Lunar Chronicles #4.5)""",23.63,4,20
+780,"""Stars Above (The Lunar Chronicles #4.5)""",15.52,3,20
+781,"""Stars Above (The Lunar Chronicles #4.5)""",48.13,5,20
+782,"""Stars Above (The Lunar Chronicles #4.5)""",10,3,20
+783,"""Stars Above (The Lunar Chronicles #4.5)""",24.17,4,20
+784,"""Stars Above (The Lunar Chronicles #4.5)""",32.36,3,20
+785,"""Stars Above (The Lunar Chronicles #4.5)""",32.74,2,20
+786,"""Stars Above (The Lunar Chronicles #4.5)""",44.92,3,20
+787,"""Stars Above (The Lunar Chronicles #4.5)""",29.64,4,20
+788,"""Stars Above (The Lunar Chronicles #4.5)""",14.57,3,20
+789,"""Stars Above (The Lunar Chronicles #4.5)""",43.69,4,20
+790,"""Stars Above (The Lunar Chronicles #4.5)""",53.04,5,20
+791,"""Stars Above (The Lunar Chronicles #4.5)""",42.21,4,20
+792,"""Stars Above (The Lunar Chronicles #4.5)""",26.09,1,20
+793,"""Stars Above (The Lunar Chronicles #4.5)""",21.12,3,20
+794,"""Stars Above (The Lunar Chronicles #4.5)""",36.83,5,20
+795,"""Stars Above (The Lunar Chronicles #4.5)""",12.86,3,20
+797,"""Stars Above (The Lunar Chronicles #4.5)""",27.89,5,20
+798,"""Stars Above (The Lunar Chronicles #4.5)""",40.83,4,20
+799,"""The Most Perfect Thing: Inside (and Outside) a Bird's Egg""",42.96,4,21
+800,"""Immunity: How Elie Metchnikoff Changed the Course of Modern Medicine""",57.36,5,21
+801,"""Sorting the Beef from the Bull: The Science of Food Fraud Forensics""",44.74,4,21
+802,"""Tipping Point for Planet Earth: How Close Are We to the Edge?""",37.55,1,21
+804,"""Diary of a Citizen Scientist: Chasing Tiger Beetles and Other New Ways of Engaging the World""",28.41,1,21
+805,"""The Origin of Species""",10.01,3,21
+806,"""The Grand Design""",13.76,3,21
+807,"""Peak: Secrets from the New Science of Expertise""",16.28,3,21
+808,"""The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory""",13.03,3,21
+809,"""The Disappearing Spoon: And Other True Tales of Madness, Love, and the History of the World from the Periodic Table of the Elements""",57.35,5,21
+810,"""Surely You're Joking, Mr. Feynman!: Adventures of a Curious Character""",25.83,2,21
+811,"""Seven Brief Lessons on Physics""",30.6,4,21
+812,"""The Selfish Gene""",29.45,1,21
+813,"""A Light in the Attic""",51.77,3,22
+815,"""Shakespeare's Sonnets""",20.66,4,22
+816,"""Olio""",23.88,1,22
+817,"""You can't bury them all: Poems""",33.63,2,22
+818,"""Slow States of Collapse: Poems""",57.31,3,22
+819,"""Untitled Collection: Sabbath Poems 2014""",14.27,3,22
+820,"""Poems That Make Grown Women Cry""",14.19,3,22
+821,"""Night Sky with Exit Wounds""",41.05,1,22
+822,"""salt.""",46.78,4,22
+823,"""Quarter Life Poetry: Poems for the Young, Broke and Hangry""",50.89,5,22
+824,"""Out of Print: City Lights Spotlight No. 14""",53.64,5,22
+825,"""Les Fleurs du Mal""",29.04,5,22
+826,"""Howl and Other Poems""",40.45,2,22
+827,"""Leave This Song Behind: Teen Poetry at Its Best""",51.17,5,22
+828,"""The Collected Poems of W.B. Yeats (The Collected Works of W.B. Yeats #1)""",15.42,3,22
+829,"""The Crossover""",38.77,4,22
+830,"""Booked""",17.49,3,22
+831,"""Twenty Love Poems and a Song of Despair""",30.95,4,22
+832,"""Vampire Knight, Vol. 1 (Vampire Knight #1)""",15.4,3,23
+833,"""Wall and Piece""",44.18,4,24
+834,"""Feathers: Displays of Brilliant Plumage""",49.05,3,24
+835,"""Art and Fear: Observations on the Perils (and Rewards) of Artmaking""",48.63,4,24
+836,"""The New Drawing on the Right Side of the Brain""",43.02,3,24
+837,"""History of Beauty""",10.29,3,24
+838,"""The Story of Art""",41.14,4,24
+839,"""The Art Book""",32.34,2,24
+840,"""Ways of Seeing""",39.51,5,24
+841,"""The Lucifer Effect: Understanding How Good People Turn Evil""",10.4,3,25
+842,"""The Golden Condom: And Other Essays on Love Lost and Found""",39.43,1,25
+843,"""It Didn't Start with You: How Inherited Family Trauma Shapes Who We Are and How to End the Cycle""",56.27,3,25
+844,"""An Unquiet Mind: A Memoir of Moods and Madness""",21.3,3,25
+845,"""Thinking, Fast and Slow""",21.14,1,25
+847,"""8 Keys to Mental Health Through Exercise""",31.04,1,25
+848,"""The Argonauts""",10.93,3,26
+849,"""M Train""",27.18,1,26
+850,"""Lab Girl""",40.85,1,26
+851,"""Approval Junkie: Adventures in Caring Too Much""",58.81,5,26
+852,"""Running with Scissors""",12.91,3,26
+854,"""Lust & Wonder""",11.87,3,26
+855,"""Life Without a Recipe""",59.04,5,26
+856,"""A Heartbreaking Work of Staggering Genius""",54.29,5,26
+857,"""Catastrophic Happiness: Finding Joy in Childhood's Messy Years""",37.35,2,27
+858,"""Fifty Shades Freed (Fifty Shades #3)""",15.36,3,28
+859,"""The Long Haul (Diary of a Wimpy Kid #9)""",44.07,1,29
+860,"""Old School (Diary of a Wimpy Kid #10)""",11.83,3,29
+861,"""I Know What I'm Doing -- and Other Lies I Tell Myself: Dispatches from a Life Under Construction""",25.98,4,29
+862,"""Hyperbole and a Half: Unfortunate Situations, Flawed Coping Mechanisms, Mayhem, and Other Things That Happened""",14.75,3,29
+863,"""Dress Your Family in Corduroy and Denim""",43.68,3,29
+864,"""Toddlers Are A**holes: It's Not Your Fault""",25.55,1,29
+865,"""When You Are Engulfed in Flames""",30.89,5,29
+866,"""Naked""",31.69,3,29
+867,"""Lamb: The Gospel According to Biff, Christ's Childhood Pal""",55.5,5,29
+869,"""Security""",39.25,2,30
+870,"""Follow You Home""",21.36,1,30
+871,"""The Loney""",23.4,1,30
+872,"""Pet Sematary""",10.56,3,30
+873,"""Doctor Sleep (The Shining #2)""",40.12,2,30
+874,"""Psycho: Sanitarium (Psycho #1.5)""",36.97,5,30
+875,"""Can You Keep a Secret? (Fear Street Relaunch #4)""",48.64,1,30
+876,"""Red Dragon (Hannibal Lecter #1)""",23.37,3,30
+877,"""Dracula the Un-Dead""",35.63,5,30
+878,"""Night Shift (Night Shift #1-20)""",12.75,3,30
+879,"""Needful Things""",47.51,4,30
+880,"""Misery""",34.79,2,30
+881,"""It""",25.01,3,30
+882,"""'Salem's Lot""",49.56,4,30
+884,"""The Girl with All the Gifts""",49.47,3,30
+886,"""Sapiens: A Brief History of Humankind""",54.23,5,31
+887,"""Unbound: How Eight Technologies Made Us Human, Transformed Society, and Brought Our World to the Brink""",25.52,1,31
+888,"""The Age of Genius: The Seventeenth Century and the Birth of the Modern Mind""",19.73,3,31
+889,"""Political Suicide: Missteps, Peccadilloes, Bad Calls, Backroom Hijinx, Sordid Pasts, Rotten Breaks, and Just Plain Dumb Mistakes in the Annals of American Politics""",36.28,2,31
+891,"""Zealot: The Life and Times of Jesus of Nazareth""",24.7,3,31
+892,"""A Distant Mirror: The Calamitous 14th Century""",14.58,3,31
+893,"""1491: New Revelations of the Americas Before Columbus""",21.8,3,31
+894,"""Brilliant Beacons: A History of the American Lighthouse""",11.45,3,31
+895,"""'Most Blessed of the Patriarchs': Thomas Jefferson and the Empire of the Imagination""",44.48,5,31
+896,"""A Short History of Nearly Everything""",52.4,5,31
+897,"""The Rise and Fall of the Third Reich: A History of Nazi Germany""",39.67,2,31
+898,"""Catherine the Great: Portrait of a Woman""",58.55,4,31
+899,"""The Mathews Men: Seven Brothers and the War Against Hitler's U-boats""",42.91,5,31
+900,"""The Hiding Place""",55.91,4,31
+902,"""The Guns of August""",14.54,3,31
+903,"""House of Lost Worlds: Dinosaurs, Dynasties, and the Story of Life on Earth""",43.7,2,31
+904,"""Foolproof Preserving: A Guide to Small Batch Jams, Jellies, Pickles, Condiments, and More: A Foolproof Guide to Making Small Batch Jams, Jellies, Pickles, Condiments, and More""",30.52,3,32
+906,"""My Paris Kitchen: Recipes and Stories""",33.37,2,32
+907,"""Mama Tried: Traditional Italian Cooking for the Screwed, Crude, Vegan, and Tattooed""",14.02,3,32
+908,"""Layered: Baking, Building, and Styling Spectacular Cakes""",40.11,1,32
+909,"""The Nerdy Nummies Cookbook: Sweet Treats for the Geek in All of Us""",37.34,5,32
+910,"""The Love and Lemons Cookbook: An Apple-to-Zucchini Celebration of Impromptu Cooking""",37.6,2,32
+911,"""The Cookies & Cups Cookbook: 125+ sweet & savory recipes reminding you to Always Eat Dessert First""",41.25,1,32
+912,"""Deliciously Ella Every Day: Quick and Easy Recipes for Gluten-Free Snacks, Packed Lunches, and Simple Meals""",42.16,3,32
+913,"""The Help Yourself Cookbook for Kids: 60 Easy Plant-Based Recipes Kids Can Make to Stay Healthy and Save the Earth""",28.77,3,32
+914,"""It's All Easy: Healthy, Delicious Weeknight Meals in under 30 Minutes""",19.55,3,32
+915,"""Barefoot Contessa Back to Basics""",28.01,1,32
+916,"""Barefoot Contessa at Home: Everyday Recipes You'll Make Over and Over Again""",50.62,5,32
+917,"""My Kitchen Year: 136 Recipes That Saved My Life""",11.53,3,32
+918,"""Everyday Italian: 125 Simple and Delicious Recipes""",20.1,5,32
+919,"""A la Mode: 120 Recipes in 60 Pairings: Pies, Tarts, Cakes, Crisps, and More Topped with Ice Cream, Gelato, Frozen Custard, and More""",38.77,1,32
+920,"""Cravings: Recipes for What You Want to Eat""",20.5,3,32
+921,"""The Moosewood Cookbook: Recipes from Moosewood Restaurant, Ithaca, New York""",12.34,3,32
+923,"""Naturally Lean: 125 Nourishing Gluten-Free, Plant-Based Recipes--All Under 300 Calories""",11.38,3,32
+924,"""Naturally Lean: 125 Nourishing Gluten-Free, Plant-Based Recipes--All Under 300 Calories""",46.01,4,32
+925,"""Naturally Lean: 125 Nourishing Gluten-Free, Plant-Based Recipes--All Under 300 Calories""",28.25,2,32
+926,"""Naturally Lean: 125 Nourishing Gluten-Free, Plant-Based Recipes--All Under 300 Calories""",59.92,5,32
+927,"""Naturally Lean: 125 Nourishing Gluten-Free, Plant-Based Recipes--All Under 300 Calories""",39.61,3,32
+928,"""Naturally Lean: 125 Nourishing Gluten-Free, Plant-Based Recipes--All Under 300 Calories""",11.05,3,32
+929,"""Naturally Lean: 125 Nourishing Gluten-Free, Plant-Based Recipes--All Under 300 Calories""",24.91,5,32
+930,"""Naturally Lean: 125 Nourishing Gluten-Free, Plant-Based Recipes--All Under 300 Calories""",13.66,3,32
+931,"""Naturally Lean: 125 Nourishing Gluten-Free, Plant-Based Recipes--All Under 300 Calories""",23.59,1,32
+932,"""Naturally Lean: 125 Nourishing Gluten-Free, Plant-Based Recipes--All Under 300 Calories""",34.32,3,32
+933,"""Naturally Lean: 125 Nourishing Gluten-Free, Plant-Based Recipes--All Under 300 Calories""",33.14,3,32
+934,"""Redeeming Love""",20.47,5,33
+935,"""Close to You""",49.46,4,33
+936,"""Shadows of the Past (Logan Point #1)""",39.67,5,33
+937,"""Like Never Before (Walker Family #2)""",28.77,2,33
+938,"""Counted With the Stars (Out from Egypt #1)""",17.97,3,33
+939,"""If I Run (If I Run #1)""",49.97,4,33
+940,"""The Dirty Little Secrets of Getting Your Dream Job""",33.34,4,34
+941,"""The Third Wave: An Entrepreneur's Vision of the Future""",12.61,3,34
+942,"""The 10% Entrepreneur: Live Your Startup Dream Without Quitting Your Day Job""",27.55,3,34
+943,"""Shoe Dog: A Memoir by the Creator of NIKE""",23.99,2,34
+944,"""Made to Stick: Why Some Ideas Survive and Others Die""",38.85,5,34
+945,"""Quench Your Own Thirst: Business Lessons Learned Over a Beer or Two""",43.14,1,34
+946,"""The Art of Startup Fundraising""",21,3,34
+947,"""Born for This: How to Find the Work You Were Meant to Do""",21.59,5,34
+948,"""The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It""",36.91,1,34
+950,"""The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses""",33.92,3,34
+951,"""Rework""",44.88,2,34
+952,"""Louisa: The Extraordinary Life of Mrs. Adams""",16.85,3,35
+953,"""Setting the World on Fire: The Brief, Astonishing Life of St. Catherine of Siena""",21.15,2,35
+954,"""The Faith of Christopher Hitchens: The Restless Soul of the World's Most Notorious Atheist""",39.55,1,35
+955,"""Benjamin Franklin: An American Life""",48.19,3,35
+956,"""The Rise of Theodore Roosevelt (Theodore Roosevelt #1)""",42.57,3,35
+957,"""In Her Wake""",12.84,3,36
+958,"""The Elephant Tree""",23.82,5,36
+959,"""Behind Closed Doors""",52.22,4,36
+960,"""You (You #1)""",43.61,5,36
+961,"""The Guilty (Will Robie #4)""",13.82,3,36
+962,"""The 14th Colony (Cotton Malone #11)""",39.24,1,36
+963,"""Give It Back""",18.32,3,36
+964,"""Killing Floor (Jack Reacher #1)""",31.49,4,36
+965,"""The Bone Hunters (Lexy Vaughan & Steven Macaulay #2)""",59.71,3,36
+966,"""Far From True (Promise Falls Trilogy #2)""",34.93,2,36
+967,"""The Travelers""",15.77,3,36
+968,"""When We Collided""",31.77,1,37
+969,"""Someone Like You (The Harrisons #2)""",52.79,5,37
+970,"""We Are All Completely Beside Ourselves""",24.04,1,37
+971,"""The Four Agreements: A Practical Guide to Personal Freedom""",17.66,3,38
+972,"""The Activist's Tao Te Ching: Ancient Advice for a Modern Revolution""",32.24,5,38
+973,"""Chasing Heaven: What Dying Taught Me About Living""",37.8,2,38
+974,"""If I Gave You God's Phone Number....: Searching for Spirituality in America""",20.91,1,38
+975,"""Unreasonable Hope: Finding Faith in the God Who Brings Purpose to Your Pain""",46.33,2,38
+976,"""A New Earth: Awakening to Your Life's Purpose""",55.65,5,38
+977,"""Logan Kade (Fallen Crest High #5.5)""",13.12,3,39
+978,"""Online Marketing for Busy Authors: A Step-By-Step Guide""",46.35,1,40
+979,"""How to Be Miserable: 40 Strategies You Already Use""",46.03,1,40
+980,"""Overload: How to Unplug, Unwind, and Unleash Yourself from the Pressure of Stress""",52.15,3,40
+981,"""You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life""",12.08,3,40
+982,"""How to Stop Worrying and Start Living""",46.49,5,40
+983,"""All the Light We Cannot See""",29.87,5,41
+984,"""The Girl You Left Behind (The Girl You Left Behind #1)""",15.79,3,41
+985,"""(Un)Qualified: How God Uses Broken People to Do Big Things""",54,5,42
+986,"""Crazy Love: Overwhelmed by a Relentless God""",47.72,2,42
+987,"""Blue Like Jazz: Nonreligious Thoughts on Christian Spirituality""",25.77,1,42
+988,"""Silence in the Dark (Logan Point #4)""",58.33,3,43
+989,"""The Grownup""",35.88,1,44
+990,"""Suzie Snowflake: One beautiful flake (a self-esteem story)""",54.81,5,45
+991,"""The Bulletproof Diet: Lose up to a Pound a Day, Reclaim Energy and Focus, Upgrade Your Life""",49.05,3,46
+993,"""10-Day Green Smoothie Cleanse: Lose Up to 15 Pounds in 10 Days!""",49.71,5,46
+994,"""The Art and Science of Low Carbohydrate Living""",52.98,5,46
+996,"""Why the Right Went Wrong: Conservatism--From Goldwater to the Tea Party and Beyond""",52.65,4,47
+998,"""Amid the Chaos""",36.58,1,48
+999,"""Dark Notes""",19.19,3,49
+1000,"""The Long Shadow of Small Ghosts: Murder and Memory in an American City""",10.97,3,50
+1006,grokking algorithms,1,3,53
+1007,machine learning for dummies,2,3,53
+1008,data science professional,3,3,53
+1009,mathmatics for ML,4,3,53
+1010,statistics,5,3,53
