@@ -3,10 +3,10 @@ Scrape data Directly Into sqllite DB browser and then retreive data with queries
 # Used Libraries
 bs4, csv, requests, sqlite3
 # Task
-Design and create a database for scraping All books for each category using DB Browser for sqllite from this web site (http://books.toscrape.com/)
-1- create books & categories table
-2- create notebook to scrap data and save data in the database
-3- create another notebook to answer some questions using SQL Language
+Design and create a database for scraping All books for each category using DB Browser for sqllite from this web site (http://books.toscrape.com/).
+1- create books & categories table.
+2- create notebook to scrap data and save data in the database.
+3- create another notebook to answer some questions using SQL Language.
 	01) Write a sql query to get books that has rate >=3 and has 'Mr' in its name.
 	02) Write a sql query to get books that has rate >=3 or price > 20.
 	03) Write a sql query to get books that has rate not 3.
